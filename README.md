@@ -33,3 +33,4 @@ Each problem solution should be in its own directory with:
 
 - [USACO Problems](./USACO/README.md)
 - [Other Problems](./Other/README.md)
+usaco and other
