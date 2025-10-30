@@ -1,0 +1,33 @@
+# Compiled files
+*.o
+*.out
+*.exe
+*.class
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Java
+*.jar
+*.war
+
+# Input/output files (optional - uncomment if you want to exclude them)
+# *.in
+# *.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+temp/
